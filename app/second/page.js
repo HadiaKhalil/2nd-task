@@ -12,7 +12,9 @@ const page = () => {
                         Hello !
               </h1>
               <h1 className="lg:text-5xl md:text-3xl  text-2xl  font-extrabold  pt-2 max-w-[440px] max-lg:text-[25px] ">
-                I am <span className="text-blue-800">Laiba Iqbal.</span>
+                I am <span className="text-blue-800">Laiba Iqbal.
+                  
+                </span>
               </h1>
               <p className="lg:text-1xl md:text-base text-sm mb-12 mt-12 font-serif  max-lg:text-[15px]">
                 I am a passionate and dedicated full-stack web developer with a knak for turning ideas into beautifully functional
