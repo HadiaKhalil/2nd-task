@@ -2,7 +2,7 @@
 import { useState } from "react"
 
 
-const Page = () => {
+const Navbar = () => {
 
   const [isClick, setClick] = useState(false)
   
@@ -99,7 +99,7 @@ const Page = () => {
   )
 }
 
-export default Page
+export default Navbar
 
 
 

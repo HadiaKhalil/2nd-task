@@ -1,7 +1,7 @@
 
-import Navbar from './Navbar/page'
-import Hero from './hero/page'
-import Second from './second/page'
+import Navbar from './Navbar/Navbar'
+import Hero from './hero/Hero'
+import Second from './second/Second'
 const page = () => {
   return (
     <div>
